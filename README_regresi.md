@@ -9,8 +9,8 @@
 
 | Field | Detail |
 |-------|--------|
-| **Nama** | [ISI NAMA KAMU] |
-| **NIM** | [ISI NIM KAMU] |
+| **Nama** | Syeh Khatami |
+| **NIM** | 101032300157 |
 | **Kelas** | Machine Learning |
 
 ---
