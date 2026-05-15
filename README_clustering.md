@@ -1,27 +1,27 @@
-# 💳 Customer Credit Card Clustering — End-to-End ML Pipeline
+#  Customer Credit Card Clustering — End-to-End ML Pipeline
 
 > **UTS Machine Learning — Individual Task**
 > "Hands-On End-to-End Models Machine Learning"
 
 ---
 
-## 📌 Identitas
+##  Identitas
 
 | Field | Detail |
 |-------|--------|
-| **Nama** | [ISI NAMA KAMU] |
-| **NIM** | [ISI NIM KAMU] |
+| **Nama** | Syeh Khatami |
+| **NIM** | 101032300157 |
 | **Kelas** | Machine Learning |
 
 ---
 
-## 🎯 Tujuan Project
+##  Tujuan Project
 
 Membangun pipeline Machine Learning end-to-end untuk mengelompokkan pelanggan kartu kredit berdasarkan **perilaku penggunaan dan pembayaran** menggunakan metode unsupervised learning (clustering).
 
 ---
 
-## 📂 Struktur Repository
+##  Struktur Repository
 
 ```
 midterm-machine-learning/
@@ -46,11 +46,11 @@ midterm-machine-learning/
 └── README.md
 ```
 
-> ⚠️ **Dataset tidak disertakan** — disediakan oleh dosen (clusteringmidterm.csv)
+>  **Dataset tidak disertakan** — disediakan oleh dosen (clusteringmidterm.csv)
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **File:** `clusteringmidterm.csv`
 
@@ -77,7 +77,7 @@ midterm-machine-learning/
 
 ---
 
-## 🔧 Alur Pipeline
+##  Alur Pipeline
 
 ```
 clusteringmidterm.csv
@@ -134,7 +134,7 @@ clusteringmidterm.csv
 
 ---
 
-## 🤖 Model yang Digunakan
+##  Model yang Digunakan
 
 | Model | Keterangan |
 |-------|-----------|
@@ -157,21 +157,21 @@ clusteringmidterm.csv
 
 ---
 
-## 👥 Profil Cluster (Contoh)
+##  Profil Cluster (Contoh)
 
 | Tipe Pelanggan | Karakteristik |
 |----------------|--------------|
-| 🛍️ Active Spender | Banyak belanja, jarang cash advance |
-| 💸 Cash Advance User | Banyak tarik tunai, balance tinggi |
-| ✅ Responsible User | Balance rendah, sering bayar penuh |
-| 💎 High Credit Customer | Limit kredit tinggi |
-| 😴 Low Activity | Jarang transaksi |
+|  Active Spender | Banyak belanja, jarang cash advance |
+|  Cash Advance User | Banyak tarik tunai, balance tinggi |
+|  Responsible User | Balance rendah, sering bayar penuh |
+|  High Credit Customer | Limit kredit tinggi |
+|  Low Activity | Jarang transaksi |
 
 *(Profil aktual tergantung hasil clustering — lihat notebook)*
 
 ---
 
-## 🛠️ Tools & Library
+##  Tools & Library
 
 | Tool | Fungsi |
 |------|--------|
@@ -184,7 +184,7 @@ clusteringmidterm.csv
 
 ---
 
-## ▶️ Cara Menjalankan
+##  Cara Menjalankan
 
 1. Upload `clusteringmidterm.csv` ke Google Drive → folder `clustering_dataset/`
 2. Buka notebook di [Google Colab](https://colab.research.google.com)
